@@ -1,0 +1,13 @@
+E:\C#\Factory Method\bin\Debug\netcoreapp3.1\Factory Method.exe
+E:\C#\Factory Method\bin\Debug\netcoreapp3.1\Factory Method.deps.json
+E:\C#\Factory Method\bin\Debug\netcoreapp3.1\Factory Method.runtimeconfig.json
+E:\C#\Factory Method\bin\Debug\netcoreapp3.1\Factory Method.runtimeconfig.dev.json
+E:\C#\Factory Method\bin\Debug\netcoreapp3.1\Factory Method.dll
+E:\C#\Factory Method\bin\Debug\netcoreapp3.1\Factory Method.pdb
+E:\C#\Factory Method\obj\Debug\netcoreapp3.1\Factory Method.csprojAssemblyReference.cache
+E:\C#\Factory Method\obj\Debug\netcoreapp3.1\Factory Method.AssemblyInfoInputs.cache
+E:\C#\Factory Method\obj\Debug\netcoreapp3.1\Factory Method.AssemblyInfo.cs
+E:\C#\Factory Method\obj\Debug\netcoreapp3.1\Factory Method.csproj.CoreCompileInputs.cache
+E:\C#\Factory Method\obj\Debug\netcoreapp3.1\Factory Method.dll
+E:\C#\Factory Method\obj\Debug\netcoreapp3.1\Factory Method.pdb
+E:\C#\Factory Method\obj\Debug\netcoreapp3.1\Factory Method.genruntimeconfig.cache
